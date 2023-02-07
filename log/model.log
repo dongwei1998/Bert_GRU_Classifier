@@ -1,0 +1,6 @@
+2023-02-07 14:17:38|INFO|train.py[:71]|Start training model !
+2023-02-07 14:17:50|INFO|train.py[:108]|epoch num 10, bach size 4730
+2023-02-07 14:17:58|INFO|train.py[:119]|epoch 1, batch 0, loss:0.9318, acc:0.3750
+2023-02-07 14:22:37|INFO|train.py[:119]|epoch 1, batch 50, loss:0.8322, acc:0.5000
+2023-02-07 14:27:09|INFO|train.py[:119]|epoch 1, batch 100, loss:0.8394, acc:0.5056
+2023-02-07 14:31:49|INFO|train.py[:119]|epoch 1, batch 150, loss:0.8431, acc:0.5190

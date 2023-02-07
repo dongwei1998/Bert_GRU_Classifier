@@ -1,0 +1,10 @@
+data==0.4
+easydict==1.9
+Flask==2.1.0
+matplotlib==3.5.1
+numpy==1.19.5
+python-dotenv==0.20.0
+requests==2.25.1
+six==1.15.0
+tensorflow_gpu==2.5.0
+tqdm==4.62.3
